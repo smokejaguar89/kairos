@@ -1,4 +1,5 @@
 """Dependency injection for Kairos."""
+
 import logging
 
 logger = logging.getLogger(__name__)

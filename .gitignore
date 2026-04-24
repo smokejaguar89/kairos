@@ -43,3 +43,8 @@ venv.bak/
 *~
 
 .DS_Store
+
+# ML models and training artifacts
+app/ml/models/*.pth
+app/ml/models/*.pkl
+sensor_data.csv
