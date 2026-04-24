@@ -1,0 +1,10 @@
+# Web Framework & Server
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+
+# Environment
+python-dotenv>=1.0.1
+
+# Testing
+pytest>=7.0.0
+httpx>=0.24.0
